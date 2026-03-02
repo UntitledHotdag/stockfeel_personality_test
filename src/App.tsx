@@ -3,6 +3,7 @@ import questions from './data/questions.json';
 import TestPage from './pages/TestPage';
 import ResultPage from './pages/ResultPage';
 import ImageSlot from './components/ImageSlot';
+import Header from './components/Header';
 
 const START_IMAGE = '/images/start.png';
 
@@ -46,6 +47,7 @@ export default function App() {
 
   return (
     <div className="start-page">
+      <Header />
       <div className="start-page__inner">
         <ImageSlot src={START_IMAGE} alt="Personality test illustration" variant="start" />
         <div className="start-badge">大人大考驗！</div>

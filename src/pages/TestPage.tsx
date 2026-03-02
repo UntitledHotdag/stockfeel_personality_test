@@ -1,5 +1,6 @@
 import ProgressBar from '../components/ProgressBar';
 import QuestionCard from '../components/QuestionCard';
+import Header from '../components/Header';
 import questions from '../data/questions.json';
 
 interface TestPageProps {
@@ -12,6 +13,7 @@ export default function TestPage({ currentIndex, onAnswer }: TestPageProps) {
 
   return (
     <div className="test-page">
+      <Header />
       <div className="test-page__inner">
         <ProgressBar current={currentIndex + 1} total={questions.length} />
         <QuestionCard

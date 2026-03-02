@@ -10,17 +10,26 @@
     "articles": [
       {
         "title": "股票入門必看！股票入門知識有哪些？股票新手入門教學！",
-        "url": "https://www.stockfeel.com.tw/%E6%96%B0%E6%89%8B%E6%8A%95%E8%B3%87%E5%85%A5%E9%96%80%E6%87%B6%E4%BA%BA%E5%8C%85/"
+        "url": "https://www.stockfeel.com.tw/%E6%96%B0%E6%89%8B%E6%8A%95%E8%B3%87%E5%85%A5%E9%96%80%E6%87%B6%E4%BA%BA%E5%8C%85/",
+        "ogImage": "https://images.stockfeel.com.tw/stockfeelimage/2022/05/FB-1200x628-62872cf538799.jpg"
       },
       {
         "title": "ETF 是什麼？ETF 怎麼買？ETF 優缺點？ETF 新手投資入門！",
-        "url": "https://www.stockfeel.com.tw/etf-%e5%ae%9a%e6%9c%9f%e5%ae%9a%e9%a1%8d-%e5%88%86%e6%95%a3%e9%a2%a8%e9%9a%aa/"
+        "url": "https://www.stockfeel.com.tw/etf-%e5%ae%9a%e6%9c%9f%e5%ae%9a%e9%a1%8d-%e5%88%86%e6%95%a3%e9%a2%a8%e9%9a%aa/",
+        "ogImage": "https://images.stockfeel.com.tw/stockfeelimage/2022/09/etf3-0913.jpg"
       },
       {
         "title": "0050、0056 怎麼選？定期定額要選誰？兩檔 ETF 資訊總整理！",
-        "url": "https://www.stockfeel.com.tw/0050-0056-%e5%93%aa%e5%80%8b%e5%a5%bd/"
+        "url": "https://www.stockfeel.com.tw/0050-0056-%e5%93%aa%e5%80%8b%e5%a5%bd/",
+        "ogImage": "https://images.stockfeel.com.tw/stockfeelimage/2020/11/FB-1200x628-628f1230b9a2e.jpg"
       }
-    ]
+    ],
+    "brand": {
+      "logo": "/stockfeel_personality_test/images/sf_logo.png",
+      "intro": "StockFeel是以普惠金融為核心的財經平台，全新上線筆記影音，透過影音介紹民生熱議與投資理財知識。股感透過資訊設計讓用戶產生興趣，透過客製化學習系統引導用戶啟動投資旅程，下個階段我們將透過Fintech互動體驗輔助投資者進行交易決策，朝「實現互聯網金融場域」目標前進。",
+      "buttonText": "前往股感",
+      "buttonUrl": "https://www.stockfeel.com.tw"
+    }
   },
   {
     "id": "balanced",
@@ -33,17 +42,26 @@
     "articles": [
       {
         "title": "信用卡繳最低會怎樣？會影響信貸嗎？利息算法、信用評分影響一次看",
-        "url": "https://www.cashfeel.com.tw/article/%E4%BF%A1%E7%94%A8%E5%8D%A1-%E6%9C%80%E4%BD%8E%E6%87%89%E7%B9%B3%E9%87%91%E9%A1%8D-%E5%88%A9%E6%81%AF"
+        "url": "https://www.cashfeel.com.tw/article/%E4%BF%A1%E7%94%A8%E5%8D%A1-%E6%9C%80%E4%BD%8E%E6%87%89%E7%B9%B3%E9%87%91%E9%A1%8D-%E5%88%A9%E6%81%AF",
+        "ogImage": "https://wp.cashfeel.com.tw/wp-content/uploads/2025/08/信用卡繳最低.jpg"
       },
       {
         "title": "如何提升庫存股價值？股票借貸詳細解說！元大證券好優貸介紹！",
-        "url": "https://www.cashfeel.com.tw/article/%E5%BA%AB%E5%AD%98%E8%82%A1%E5%83%B9%E5%80%BC-%E8%82%A1%E7%A5%A8%E5%80%9F%E8%B2%B8-%E5%85%83%E5%A4%A7%E8%AD%89%E5%88%B8%E5%A5%BD%E5%84%AA%E8%B2%B8"
+        "url": "https://www.cashfeel.com.tw/article/%E5%BA%AB%E5%AD%98%E8%82%A1%E5%83%B9%E5%80%BC-%E8%82%A1%E7%A5%A8%E5%80%9F%E8%B2%B8-%E5%85%83%E5%A4%A7%E8%AD%89%E5%88%B8%E5%A5%BD%E5%84%AA%E8%B2%B8",
+        "ogImage": "https://wp.cashfeel.com.tw/wp-content/uploads/2026/01/股票借貸-1.jpg"
       },
       {
         "title": "10 年期信貸好嗎？哪些銀行可以辦？利率、優缺點與適合族群一次看！",
-        "url": "https://www.cashfeel.com.tw/article/%E4%BF%A1%E8%B2%B8-10%E5%B9%B4%E6%9C%9F%E4%BF%A1%E8%B2%B8"
+        "url": "https://www.cashfeel.com.tw/article/%E4%BF%A1%E8%B2%B8-10%E5%B9%B4%E6%9C%9F%E4%BF%A1%E8%B2%B8",
+        "ogImage": "https://wp.cashfeel.com.tw/wp-content/uploads/2025/06/10年期信貸.jpg"
       }
-    ]
+    ],
+    "brand": {
+      "logo": "/stockfeel_personality_test/images/cf_logo.png",
+      "intro": "安錢感是股感集團旗下品牌，提供專業消費信用知識、比較金融商品及完成任務賺點數的平台。安錢感致力於協助對於消費金融商品的使用者與提供者完成所有相關的決策。",
+      "buttonText": "前往安錢感",
+      "buttonUrl": "https://www.cashfeel.com.tw"
+    }
   },
   {
     "id": "aggressive",
@@ -56,16 +74,25 @@
     "articles": [
       {
         "title": "買房流程懶人包！買房簽約注意事項有哪些？用印 、完稅、交屋要注意什麼？",
-        "url": "https://www.housefeel.com.tw/article/%e8%b2%b7%e6%88%bf-%e6%b5%81%e7%a8%8b-%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85-%e4%ba%a4%e5%b1%8b-%e8%b2%b8%e6%ac%be-%e4%bb%a3%e6%9b%b8-%e4%b8%8d%e5%8b%95%e7%94%a2%e8%aa%aa%e6%98%8e%e6%9b%b8/"
+        "url": "https://www.housefeel.com.tw/article/%e8%b2%b7%e6%88%bf-%e6%b5%81%e7%a8%8b-%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85-%e4%ba%a4%e5%b1%8b-%e8%b2%b8%e6%ac%be-%e4%bb%a3%e6%9b%b8-%e4%b8%8d%e5%8b%95%e7%94%a2%e8%aa%aa%e6%98%8e%e6%9b%b8/",
+        "ogImage": "https://wp.housefeel.com.tw/wp-content/uploads/2022/01/FB-Share-1200x628-1.png"
       },
       {
         "title": "用租金反推房貸額度？原來你付的租金早就可以買三房兩廳！",
-        "url": "https://www.housefeel.com.tw/article/%e7%a7%9f%e6%88%bf-%e8%b2%b7%e6%88%bf-%e6%88%bf%e8%b2%b8-%e6%88%bf%e7%a7%9f-%e9%a0%ad%e6%9c%9f%e6%ac%be/"
+        "url": "https://www.housefeel.com.tw/article/%e7%a7%9f%e6%88%bf-%e8%b2%b7%e6%88%bf-%e6%88%bf%e8%b2%b8-%e6%88%bf%e7%a7%9f-%e9%a0%ad%e6%9c%9f%e6%ac%be/",
+        "ogImage": "https://wp.housefeel.com.tw/wp-content/uploads/2021/04/FB-Share-1200x628-2.png"
       },
       {
         "title": "房屋貸款種類有哪些？指數型、理財型、階梯型房貸差在哪？",
-        "url": "https://www.housefeel.com.tw/article/%E6%88%BF%E8%B2%B8%E7%A8%AE%E9%A1%9E-%E6%8C%87%E6%95%B8-%E5%9B%BA%E5%AE%9A-%E9%9A%8E%E6%A2%AF-%E6%8A%B5%E5%88%A9-%E7%90%86%E8%B2%A1-%E5%A3%BD%E9%9A%AA-%E6%88%BF%E8%B2%B8/"
+        "url": "https://www.housefeel.com.tw/article/%E6%88%BF%E8%B2%B8%E7%A8%AE%E9%A1%9E-%E6%8C%87%E6%95%B8-%E5%9B%BA%E5%AE%9A-%E9%9A%8E%E6%A2%AF-%E6%8A%B5%E5%88%A9-%E7%90%86%E8%B2%A1-%E5%A3%BD%E9%9A%AA-%E6%88%BF%E8%B2%B8/",
+        "ogImage": "https://housefeel-public-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/02/260211mortgage-loan-category-ogimage.png"
       }
-    ]
+    ],
+    "brand": {
+      "logo": "/stockfeel_personality_test/images/hf_logo.png",
+      "intro": "房感是股感集團旗下品牌，提供專業房產知識、呈現房價數據及開發房屋試算功能的平台。房感致力於協助各個階段的不動產使用者與不動產提供者完成所有的房產大小事。",
+      "buttonText": "前往房感",
+      "buttonUrl": "https://www.housefeel.com.tw"
+    }
   }
 ]

@@ -19,6 +19,7 @@ export default function ResultPage({ score, onRetake }: ResultPageProps) {
       description={result.description}
       articles={result.articles}
       image={result.image}
+      brand={result.brand}
       onRetake={onRetake}
     />
   );

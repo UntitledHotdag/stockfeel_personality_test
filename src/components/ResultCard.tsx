@@ -3,6 +3,14 @@ import ImageSlot from './ImageSlot';
 interface Article {
   title: string;
   url: string;
+  ogImage?: string;
+}
+
+interface Brand {
+  logo: string;
+  intro: string;
+  buttonText: string;
+  buttonUrl: string;
 }
 
 interface ResultCardProps {
@@ -12,6 +20,7 @@ interface ResultCardProps {
   description: string;
   articles: Article[];
   image?: string;
+  brand?: Brand;
   onRetake: () => void;
 }
 
@@ -22,6 +31,7 @@ export default function ResultCard({
   description,
   articles,
   image,
+  brand,
   onRetake,
 }: ResultCardProps) {
   return (
@@ -50,13 +60,38 @@ export default function ResultCard({
                   className="article-link"
                   style={{ borderColor: color }}
                 >
-                  <span className="article-link__text">{article.title}</span>
-                  <span className="article-link__arrow" style={{ color }}>→</span>
+                  {article.ogImage && (
+                    <img
+                      src={article.ogImage}
+                      alt=""
+                      className="article-link__og-image"
+                    />
+                  )}
+                  <div className="article-link__footer">
+                    <span className="article-link__text">{article.title}</span>
+                    <span className="article-link__arrow" style={{ color }}>→</span>
+                  </div>
                 </a>
               </li>
             ))}
           </ul>
         </div>
+
+        {brand && (
+          <div className="brand-section">
+            <img src={brand.logo} alt="Brand logo" className="brand-section__logo" />
+            <p className="brand-section__intro">{brand.intro}</p>
+            <a
+              href={brand.buttonUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="brand-section__btn"
+              style={{ backgroundColor: color }}
+            >
+              {brand.buttonText}
+            </a>
+          </div>
+        )}
 
         <button className="retake-btn" onClick={onRetake}>
           再測一次
