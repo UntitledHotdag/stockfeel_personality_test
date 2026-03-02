@@ -4,9 +4,9 @@
     "scoreRange": [0, 3],
     "color": "#00C1BF",
     "image": "",
-    "title": "The Steady Protector",
-    "subtitle": "Conservative Investor",
-    "description": "You value stability and security above all else. You prefer to protect what you've built and make decisions based on careful analysis rather than market excitement. Your disciplined approach helps you avoid costly mistakes and stay the course during turbulent times.",
+    "title": "是個初級大人",
+    "subtitle": "少年以上 成人未滿",
+    "description": "青澀的你，對於生活還會多浪慢的想像。在歲月靜好的日子裡，還有生活的秘密還有很多等著你來探索！成為大人的第一步是了解資本市場運作的方式，讓股感幫你掌握理財的方向感",
     "articles": [
       {
         "title": "Building a Resilient Portfolio for the Long Haul",
@@ -24,12 +24,12 @@
   },
   {
     "id": "balanced",
-    "scoreRange": [4, 6],
+    "scoreRange": [4, 7],
     "color": "#5446E9",
     "image": "",
-    "title": "The Balanced Navigator",
-    "subtitle": "Moderate Investor",
-    "description": "You strike a smart balance between caution and ambition. You know when to be patient and when to seize opportunities, making you adaptable across different market conditions. Your measured confidence is one of your greatest financial assets.",
+    "title": "快要成為高級大人了",
+    "subtitle": "生活自理小能手",
+    "description": "你已經學會生活大部分的酸甜苦辣，在成為高級大人的路上，你即將開始挑戰更多的未知，承受更多的風險，讓安錢感陪你在這條路上找到安定感。",
     "articles": [
       {
         "title": "The Art of Balanced Investing in Volatile Markets",
@@ -47,12 +47,12 @@
   },
   {
     "id": "aggressive",
-    "scoreRange": [7, 10],
+    "scoreRange": [8, 10],
     "color": "#009FE5",
     "image": "",
-    "title": "The Bold Trailblazer",
-    "subtitle": "Aggressive Investor",
-    "description": "You embrace risk and see market downturns as opportunities. You're driven by the potential for significant growth and are comfortable navigating uncertainty. Your forward-thinking mindset positions you well for high-reward investing — as long as you stay informed.",
+    "title": "已經是高級大人",
+    "subtitle": "照顧自己 保護他人",
+    "description": "在成為大人的冒險中，你已經成長為可以保護他人的勇者了！在嚐遍旅途中的酸甜苦辣後，是時候為自己搭建一個堅強的城堡，保護最重要的寶物。讓房感陪你打造屬於你的避風港.",
     "articles": [
       {
         "title": "High-Growth Stocks: What Every Bold Investor Should Know",

@@ -27,7 +27,7 @@ export default function ResultCard({
   return (
     <div className="result-page">
       <div className="result-hero" style={{ backgroundColor: color }}>
-        <p className="result-hero__label">Your Investor Type</p>
+        <p className="result-hero__label">在大人的路上，你...</p>
         <h1 className="result-hero__title">{title}</h1>
         <p className="result-hero__subtitle">{subtitle}</p>
         <ImageSlot src={image} alt={`${title} illustration`} variant="result" />
@@ -39,7 +39,7 @@ export default function ResultCard({
         </div>
 
         <div className="result-articles">
-          <h3 className="result-articles__heading">Recommended Reading</h3>
+          <h3 className="result-articles__heading">延伸閱讀</h3>
           <ul className="article-list">
             {articles.map((article, i) => (
               <li key={i} className="article-item">
@@ -59,7 +59,7 @@ export default function ResultCard({
         </div>
 
         <button className="retake-btn" onClick={onRetake}>
-          Take the test again
+          再測一次
         </button>
       </div>
     </div>
