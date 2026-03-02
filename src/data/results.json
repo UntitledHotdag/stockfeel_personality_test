@@ -1,0 +1,71 @@
+[
+  {
+    "id": "conservative",
+    "scoreRange": [0, 3],
+    "color": "#00C1BF",
+    "image": "",
+    "title": "The Steady Protector",
+    "subtitle": "Conservative Investor",
+    "description": "You value stability and security above all else. You prefer to protect what you've built and make decisions based on careful analysis rather than market excitement. Your disciplined approach helps you avoid costly mistakes and stay the course during turbulent times.",
+    "articles": [
+      {
+        "title": "Building a Resilient Portfolio for the Long Haul",
+        "url": "https://www.stockfeel.com.tw/article/1"
+      },
+      {
+        "title": "Why Capital Preservation Matters More Than You Think",
+        "url": "https://www.stockfeel.com.tw/article/2"
+      },
+      {
+        "title": "Low-Risk Investment Strategies That Actually Work",
+        "url": "https://www.stockfeel.com.tw/article/3"
+      }
+    ]
+  },
+  {
+    "id": "balanced",
+    "scoreRange": [4, 6],
+    "color": "#5446E9",
+    "image": "",
+    "title": "The Balanced Navigator",
+    "subtitle": "Moderate Investor",
+    "description": "You strike a smart balance between caution and ambition. You know when to be patient and when to seize opportunities, making you adaptable across different market conditions. Your measured confidence is one of your greatest financial assets.",
+    "articles": [
+      {
+        "title": "The Art of Balanced Investing in Volatile Markets",
+        "url": "https://www.stockfeel.com.tw/article/4"
+      },
+      {
+        "title": "Diversification: The Key to Sustainable Growth",
+        "url": "https://www.stockfeel.com.tw/article/5"
+      },
+      {
+        "title": "How to Rebalance Your Portfolio Like a Pro",
+        "url": "https://www.stockfeel.com.tw/article/6"
+      }
+    ]
+  },
+  {
+    "id": "aggressive",
+    "scoreRange": [7, 10],
+    "color": "#009FE5",
+    "image": "",
+    "title": "The Bold Trailblazer",
+    "subtitle": "Aggressive Investor",
+    "description": "You embrace risk and see market downturns as opportunities. You're driven by the potential for significant growth and are comfortable navigating uncertainty. Your forward-thinking mindset positions you well for high-reward investing — as long as you stay informed.",
+    "articles": [
+      {
+        "title": "High-Growth Stocks: What Every Bold Investor Should Know",
+        "url": "https://www.stockfeel.com.tw/article/7"
+      },
+      {
+        "title": "Managing Risk When You're Chasing Big Returns",
+        "url": "https://www.stockfeel.com.tw/article/8"
+      },
+      {
+        "title": "The Mindset of a Successful Aggressive Investor",
+        "url": "https://www.stockfeel.com.tw/article/9"
+      }
+    ]
+  }
+]
