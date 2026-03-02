@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "public/images/question_1.png",
+    "image": "/stockfeel_personality_test/images/question_1.png",
     "question": "當你走進家裡附近的水果行時：",
     "answers": [
       { "label": "你知道當季的水果有哪些，以及如何挑選品質好的水果。", "score": 1 },
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "public/images/question_2.png",
+    "image": "/stockfeel_personality_test/images/question_2.png",
     "question": "當你收到政府寄來的綜合所得稅試算通知書時：",
     "answers": [
       { "label": "先放著，要繳錢的時候會有人通知我", "score": 0 },
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "public/images/question_3.png",
+    "image": "/stockfeel_personality_test/images/question_3.png",
     "question": "當家裡的垃圾車音樂響起，而垃圾袋已經快要滿時：",
     "answers": [
       { "label": "還可以再塞，明天再說。", "score": 0 },
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "public/images/question_4.png",
+    "image": "/stockfeel_personality_test/images/question_4.png",
     "question": "當你發現浴室馬桶的水位異常升高、快要溢出來時：",
     "answers": [
       { "label": "你會立刻找吸盤（拔雅）來疏通，或關閉水源開關。", "score":  1 },
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "public/images/question_5.png",
+    "image": "/stockfeel_personality_test/images/question_5.png",
     "question": "假日受邀參加親友的婚禮，需要包禮金的時候：",
     "answers": [
       { "label": "查出婚禮飯店的正確紅包行情，並能正確寫出紅包袋賀詞。", "score": 1 },
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "public/images/question_6.png",
+    "image": "/stockfeel_personality_test/images/question_6.png",
     "question": "當你開車或騎車在路上不小心發生擦撞時：",
     "answers": [
       { "label": "發照發限時動態", "score": 1 },
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "public/images/question_7.png",
+    "image": "/stockfeel_personality_test/images/question_7.png",
     "question": "出門旅遊時，發現個人物品遺留在上一個地點時：",
     "answers": [
       { "label": "致電上一個地點的服務中心，並且原路回去尋找", "score": 1 },
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "public/images/question_8.png",
+    "image": "/stockfeel_personality_test/images/question_8.png",
     "question": "上班期間，意外獲1000元紅包時",
     "answers": [
       { "label": "三星電選四倍十期", "score": 0 },
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "image": "public/images/question_9.png",
+    "image": "/stockfeel_personality_test/images/question_9.png",
     "question": "在夏天來臨之前，你會：",
     "answers": [
       { "label": "把安排冷氣清潔，並且定期清洗濾網", "score": 1 },
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "image": "public/images/question_10.png",
+    "image": "/stockfeel_personality_test/images/question_10.png",
     "question": "當你準備要出門，卻發現車子的儀表板亮起一個黃色燈號時：",
     "answers": [
       { "label": "你知道那是胎壓、機油還是引擎燈，並評估是否能繼續開。", "score": 0 },
