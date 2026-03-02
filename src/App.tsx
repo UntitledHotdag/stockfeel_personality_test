@@ -5,7 +5,7 @@ import ResultPage from './pages/ResultPage';
 import ImageSlot from './components/ImageSlot';
 import Header from './components/Header';
 
-const START_IMAGE = '/images/start.png';
+const START_IMAGE = 'public/images/start.png';
 
 type AppState = 'start' | 'test' | 'result';
 
