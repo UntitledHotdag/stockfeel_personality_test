@@ -11,6 +11,7 @@ interface QuestionCardProps {
   question: string;
   answers: Answer[];
   image?: string;
+  nextImage?: string;
   onAnswer: (score: number) => void;
 }
 
@@ -19,6 +20,7 @@ export default function QuestionCard({
   question,
   answers,
   image,
+  nextImage,
   onAnswer,
 }: QuestionCardProps) {
   const [visible, setVisible] = useState(false);
@@ -30,6 +32,16 @@ export default function QuestionCard({
     const t = setTimeout(() => setVisible(true), 30);
     return () => clearTimeout(t);
   }, [questionNumber]);
+
+  useEffect(() => {
+    if (!nextImage) return;
+    const link = document.createElement('link');
+    link.rel = 'preload';
+    link.as = 'image';
+    link.href = nextImage;
+    document.head.appendChild(link);
+    return () => { document.head.removeChild(link); };
+  }, [nextImage]);
 
   function handleSelect(score: number, index: number) {
     if (selected !== null) return;

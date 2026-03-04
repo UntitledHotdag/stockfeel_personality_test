@@ -10,6 +10,7 @@ interface TestPageProps {
 
 export default function TestPage({ currentIndex, onAnswer }: TestPageProps) {
   const question = questions[currentIndex];
+  const nextQuestion = questions[currentIndex + 1];
 
   return (
     <div className="test-page">
@@ -21,6 +22,7 @@ export default function TestPage({ currentIndex, onAnswer }: TestPageProps) {
           question={question.question}
           answers={question.answers}
           image={question.image}
+          nextImage={nextQuestion?.image}
           onAnswer={onAnswer}
         />
       </div>
