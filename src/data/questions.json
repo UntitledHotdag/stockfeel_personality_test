@@ -5,7 +5,7 @@
     "question": "當你走進家裡附近的水果行時：",
     "answers": [
       { "label": "你知道當季的水果有哪些，以及如何挑選品質好的水果。", "score": 1 },
-      { "label": "從沒走進過水果行，家裡的冰箱會自己長水果出來", "score": 0 }
+      { "label": "不知道多少錢算貴 看到漂亮就買", "score": 0 }
     ]
   },
   {
@@ -31,7 +31,7 @@
     "image": "/stockfeel_personality_test/images/question_4.png",
     "question": "當你發現浴室馬桶的水位異常升高、快要溢出來時：",
     "answers": [
-      { "label": "你會立刻找吸盤（拔雅）來疏通，或關閉水源開關。", "score":  1 },
+      { "label": "尋找廁所內有沒有吸盤可以用來疏通，或關閉水源開關。", "score":  1 },
       { "label": "努力憋住尖叫的衝動，默默走出浴室，等下一個人進去發現。", "score": 0 }
     ]
   },
@@ -41,7 +41,7 @@
     "question": "假日受邀參加親友的婚禮，需要包禮金的時候：",
     "answers": [
       { "label": "查出婚禮飯店的正確紅包行情，並能正確寫出紅包袋賀詞。", "score": 1 },
-      { "label": "拖到最後一刻才在查飯店在哪", "score": 0 }
+      { "label": "出門前一刻還在查禮金行情", "score": 0 }
     ]
   },
   {
@@ -59,7 +59,7 @@
     "question": "出門旅遊時，發現個人物品遺留在上一個地點時：",
     "answers": [
       { "label": "致電上一個地點的服務中心，並且原路回去尋找", "score": 1 },
-      { "label": "發Threads", "score": 0 }
+      { "label": "發Threads 找脆友求救", "score": 0 }
     ]
   },
   {
@@ -67,14 +67,14 @@
     "image": "/stockfeel_personality_test/images/question_8.png",
     "question": "上班期間，意外獲1000元紅包時",
     "answers": [
-      { "label": "三星電選四倍十期", "score": 0 },
+      { "label": "三星電選四倍十期 Go big or go home", "score": 0 },
       { "label": "購買10股0050", "score": 1 }
     ]
   },
   {
     "id": 9,
     "image": "/stockfeel_personality_test/images/question_9.png",
-    "question": "在夏天來臨之前，你會：",
+    "question": "當天氣開始變熱，夏天快要來的時候，你會：",
     "answers": [
       { "label": "把安排冷氣清潔，並且定期清洗濾網", "score": 1 },
       { "label": "去量販店買好幾桶冰淇淋回家", "score": 0 }
@@ -86,7 +86,7 @@
     "question": "當你準備要出門，卻發現車子的儀表板亮起一個黃色燈號時：",
     "answers": [
       { "label": "你知道那是胎壓、機油還是引擎燈，並評估是否能繼續開。", "score": 0 },
-      { "label": "我坐後座，前作的人會知道怎麼辦", "score": 1 }
+      { "label": "我坐後座，前座的人會知道怎麼辦", "score": 1 }
     ]
   }
 ]
